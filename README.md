@@ -7,9 +7,7 @@
 
 ## 🚀 Projects
 - 🔒 **OBFUSCATED CAPTCHA** – Secure CAPTCHA system to resist bots
-- 🧠 **DSA Repository** – Optimized solutions in C++
-- ⚙️ **Operating System Algorithms** – Semester practical implementations
-
+- 🌐 **JavaScript Projects** – Collection of beginner to intermediate JavaScript projects focusing on DOM manipulation, logic building, and core web concepts  
 ## 📈 Currently Learning
 - React.js
 - Backend (Node.js)
