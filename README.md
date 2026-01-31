@@ -6,7 +6,7 @@
 📚 Learning Full Stack Web Development  
 
 ## 🚀 Projects
-- 🔒 **[OBFUSCATED CAPTCHA](https://github.com/dwivedinihal/OBFUSCATED-CAPTCHA)**  
+- 🔒 **[DealDekho]**([DealDekho]((https://github.com/dwivedinihal/dealDekho))**  )**  
   Secure CAPTCHA system designed to resist bots using obfuscation and visual noise techniques  
 - 🌐 **[JavaScript Projects](https://github.com/dwivedinihal/JavaScript-projects)**  
   Collection of beginner to intermediate JavaScript projects focusing on DOM manipulation and logic building   
