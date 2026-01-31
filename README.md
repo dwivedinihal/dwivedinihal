@@ -6,15 +6,16 @@
 📚 Learning Full Stack Web Development  
 
 ## 🚀 Projects
-- 🔒 **[DealDekho]**([DealDekho]((https://github.com/dwivedinihal/dealDekho))**  )**  
+- 🔒 **[DealDekho](https://github.com/dwivedinihal/dealDekho)**  
   Secure CAPTCHA system designed to resist bots using obfuscation and visual noise techniques  
 - 🌐 **[JavaScript Projects](https://github.com/dwivedinihal/JavaScript-projects)**  
   Collection of beginner to intermediate JavaScript projects focusing on DOM manipulation and logic building   
+
 ## 📈 Currently Learning
 - React.js
 - Backend (Node.js)
 - System Design basics
 
 ## 🔗 Profiles
-- 💼 LinkedIn: https://linkedin.com/in/nihal-dwivedi-06a62428a
-- 🧩 LeetCode: https://leetcode.com/u/dwivedinihal_/
+- 💼 LinkedIn: [https://linkedin.com/in/nihal-dwivedi-06a62428a](https://linkedin.com/in/nihal-dwivedi-06a62428a)
+- 🧩 LeetCode: [https://leetcode.com/u/dwivedinihal_/](https://leetcode.com/u/dwivedinihal_/)
